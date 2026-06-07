@@ -1,6 +1,6 @@
 # awesome-cosmos-ai-agents
 
-> The best public collection of AI-agent, research, media, and education resources for space and astronomy.
+> The best public collection of AI agent, research, media, and education resources for space and astronomy.
 
 This repository is designed to be an **authority magnet**: a high-signal, opinionated, public directory for people building:
 
@@ -489,7 +489,7 @@ This repository prefers resources that are:
 - **Globe at Night**  
   **Link:** https://www.globeatnight.org/  
   **Type:** Light pollution citizen science project  
-  **Best use case:** Education, public participation, and longitudinal sky-quality observations  
+  **Best use case:** Education, public participation, and longitudinal sky quality observations  
   **Why it matters:** It blends astronomy outreach with real data collection.
 
 - **Disk Detective**  
@@ -615,22 +615,22 @@ This repository should evolve in this order:
 
 ### Phase 1 — Structure and standards
 
-- define the promise clearly
-- organize durable sections
-- standardize entry format
-- establish editorial rules and maintenance expectations
+- Define the promise clearly
+- Organize durable sections
+- Standardize entry format
+- Establish editorial rules and maintenance expectations
 
 ### Phase 2 — Populate highest-authority categories
 
-- deepen NASA, ESA/Webb, arXiv, satellite, and education coverage
-- keep primary sources and downstream tooling clearly separated
-- improve “must-use” lists for fast onboarding
+- Deepen NASA, ESA/Webb, arXiv, satellite, and education coverage
+- Keep primary sources and downstream tooling clearly separated
+- Improve “must-use” lists for fast onboarding
 
 ### Phase 3 — Differentiate with workflows
 
-- expand MCP server patterns
-- expand coding-agent and media-pipeline guidance
-- add more workflow recipes that connect data, tools, and outputs
+- Expand MCP server patterns
+- Expand coding-agent and media-pipeline guidance
+- Add more workflow recipes that connect data, tools, and outputs
 
 ## Guiding principle
 
