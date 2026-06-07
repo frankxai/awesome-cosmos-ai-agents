@@ -101,7 +101,7 @@ This repository prefers resources that are:
   **Why it matters:** It is the highest-leverage entry point for public NASA data and media workflows.
 
 - **Astronomy Picture of the Day (APOD)**  
-  **Link:** https://api.nasa.gov/  
+  **Link:** https://api.nasa.gov/#apod  
   **Type:** Public media API  
   **Best use case:** Daily astronomy briefings, educational bots, and automated content summaries  
   **Why it matters:** APOD is a trusted, highly reusable source for recurring astronomy media content.
@@ -124,11 +124,17 @@ This repository prefers resources that are:
   **Best use case:** Monitoring fires, storms, volcanoes, and other Earth events in near real time  
   **Why it matters:** It is ideal for event-driven agents and media monitoring systems.
 
-- **NeoWs / DONKI**  
-  **Link:** https://api.nasa.gov/  
-  **Type:** Space environment and near-Earth object APIs  
-  **Best use case:** Building alerts, educational explainers, and space weather dashboards  
-  **Why it matters:** They make space environment data accessible to public-facing automation.
+- **NeoWs**  
+  **Link:** https://api.nasa.gov/#neows  
+  **Type:** Near-Earth object API  
+  **Best use case:** Building asteroid trackers, alerts, and public-facing monitoring tools  
+  **Why it matters:** It makes near-Earth object data easy to integrate into agent and dashboard workflows.
+
+- **DONKI**  
+  **Link:** https://api.nasa.gov/#donki  
+  **Type:** Space weather API  
+  **Best use case:** Building solar event alerts, explainers, and monitoring dashboards  
+  **Why it matters:** It opens public access to machine-readable space weather event data.
 
 #### Tools built on top
 
@@ -371,10 +377,10 @@ This repository prefers resources that are:
   **Why it matters:** Many high-value space resources still require browser-grade automation.
 
 - **Filesystem / Fetch / Memory server patterns**  
-  **Link:** https://github.com/modelcontextprotocol/servers  
+  **Link:** https://docs.modelcontextprotocol.io/  
   **Type:** Core agent utility servers  
   **Best use case:** Combining local curation, remote retrieval, and durable agent context  
-  **Why it matters:** They make research and media agents usable in practice, not just in demos.
+  **Why it matters:** They are the practical building blocks behind agents that read files, retrieve sources, and preserve context.
 
 ### Remotion / FFmpeg templates
 
@@ -511,7 +517,7 @@ This repository prefers resources that are:
 Use these first:
 
 - **NASA ADS** for literature grounding and citation trails
-- **arXiv astro-ph.\*** for fresh paper discovery
+- **arXiv astro-ph categories (GA, EP, HE, IM, SR)** for fresh paper discovery
 - **NASA Earthdata Search** for Earth observation workflows
 - **ESASky** for fast astronomical sky discovery
 - **MAST** for archive-grade mission data, especially Webb and Hubble
@@ -550,7 +556,7 @@ Use this stack:
 
 ### Build a space research agent
 
-- Monitor **arXiv astro-ph.\*** feeds
+- Monitor **arXiv astro-ph categories (GA, EP, HE, IM, SR)**
 - Ground findings with **NASA ADS**
 - Pull supporting imagery or data from **ESASky**, **MAST**, or **Earthdata**
 - Use **filesystem**, **fetch**, and **memory** MCP patterns
@@ -592,7 +598,7 @@ When adding a resource:
 
 ## Maintenance cadence
 
-- **Monthly:** quick pass for broken links and obviously stale projects
+- **Monthly:** Quick pass for broken links and obviously stale projects
 - **Quarterly:** deeper review of category quality, overlap, and missing high-authority additions
 - **When major releases happen:** update “New and notable” and workflow guidance
 
