@@ -599,7 +599,7 @@ When adding a resource:
 ## Maintenance cadence
 
 - **Monthly:** Quick pass for broken links and obviously stale projects
-- **Quarterly:** deeper review of category quality, overlap, and missing high-authority additions
+- **Quarterly:** Deeper review of category quality, overlap, and missing high-authority additions
 - **When major releases happen:** update “New and notable” and workflow guidance
 
 ## Update policy
