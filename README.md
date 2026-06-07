@@ -419,8 +419,8 @@ This repository prefers resources that are:
 - **GitHub Copilot agent documentation**  
   **Link:** https://docs.github.com/en/copilot/how-tos/use-copilot-agents  
   **Type:** Agent workflow documentation  
-  **Best use case:** Organizing repo-aware coding, review, and task execution workflows  
-  **Why it matters:** It is directly relevant for turning curation and tooling ideas into maintained repos.
+  **Best use case:** Organizing GitHub Copilot coding, review, and task execution workflows around repositories  
+  **Why it matters:** It is directly relevant for teams using GitHub Copilot to maintain science and media repos.
 
 - **Aider**  
   **Link:** https://aider.chat/  
