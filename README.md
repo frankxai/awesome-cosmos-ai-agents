@@ -90,9 +90,9 @@ This repository prefers resources that are:
 
 ## Curated index
 
-## NASA APIs
+### NASA APIs
 
-### Primary sources
+#### Primary sources
 
 - **NASA API portal**  
   **Link:** https://api.nasa.gov/  
@@ -130,7 +130,7 @@ This repository prefers resources that are:
   **Best use case:** Building alerts, educational explainers, and space weather dashboards  
   **Why it matters:** They make space environment data accessible to public-facing automation.
 
-### Tools built on top
+#### Tools built on top
 
 - **earthaccess**  
   **Link:** https://github.com/nsidc/earthaccess  
@@ -138,9 +138,9 @@ This repository prefers resources that are:
   **Best use case:** Programmatic access to NASA Earthdata from notebooks, pipelines, and agents  
   **Why it matters:** It shortens the path from catalog discovery to reproducible data workflows.
 
-## ESA / Webb resources
+### ESA / Webb resources
 
-### Primary sources
+#### Primary sources
 
 - **ESASky**  
   **Link:** https://sky.esa.int/  
@@ -166,7 +166,7 @@ This repository prefers resources that are:
   **Best use case:** Accessing Hubble, Webb, and other mission archive data for serious analysis  
   **Why it matters:** It turns public fascination into archive-backed science workflows.
 
-### Tools built on top
+#### Tools built on top
 
 - **astroquery**  
   **Link:** https://www.astropy.org/astroquery/  
@@ -180,9 +180,9 @@ This repository prefers resources that are:
   **Best use case:** Working from raw or calibrated Webb data toward publishable analysis products  
   **Why it matters:** It is core infrastructure for advanced Webb data workflows.
 
-## arXiv space / astro categories
+### arXiv space / astro categories
 
-### Primary sources
+#### Primary sources
 
 - **astro-ph.GA**  
   **Link:** https://arxiv.org/list/astro-ph.GA/recent  
@@ -214,7 +214,7 @@ This repository prefers resources that are:
   **Best use case:** Monitoring stellar and solar astrophysics research  
   **Why it matters:** It is useful for both science agents and classroom content pipelines.
 
-### Tools built on top
+#### Tools built on top
 
 - **NASA ADS**  
   **Link:** https://ui.adsabs.harvard.edu/  
@@ -228,9 +228,9 @@ This repository prefers resources that are:
   **Best use case:** Pulling arXiv metadata into summarizers, rankings, and research-agent pipelines  
   **Why it matters:** It turns raw paper streams into programmable agent inputs.
 
-## Satellite data tools
+### Satellite data tools
 
-### Primary sources
+#### Primary sources
 
 - **NASA Earthdata Search**  
   **Link:** https://search.earthdata.nasa.gov/  
@@ -256,7 +256,7 @@ This repository prefers resources that are:
   **Best use case:** Querying analysis-ready geospatial datasets in modern cloud-native form  
   **Why it matters:** It is highly agent-friendly because it standardizes discoverability and access.
 
-### Tools built on top
+#### Tools built on top
 
 - **pystac-client**  
   **Link:** https://github.com/stac-utils/pystac-client  
@@ -282,7 +282,7 @@ This repository prefers resources that are:
   **Best use case:** Inspecting, validating, and presenting satellite data visually  
   **Why it matters:** It remains a practical bridge between programmatic and human review workflows.
 
-## Open-source planetarium tools
+### Open-source planetarium tools
 
 - **Stellarium**  
   **Link:** https://stellarium.org/  
@@ -314,7 +314,7 @@ This repository prefers resources that are:
   **Best use case:** Guided tours, layered data exploration, and public education  
   **Why it matters:** It is one of the best bridges between expert data and non-expert audiences.
 
-## Astronomy visualization libraries
+### Astronomy visualization libraries
 
 - **Astropy visualization**  
   **Link:** https://docs.astropy.org/en/stable/visualization/  
@@ -346,9 +346,9 @@ This repository prefers resources that are:
   **Best use case:** Orbital, globe, and satellite visualization on the web  
   **Why it matters:** It is a strong layer for space situational awareness and Earth visualization products.
 
-## MCP servers for research and media
+### MCP servers for research and media
 
-### Primary source
+#### Primary source
 
 - **Model Context Protocol server collection**  
   **Link:** https://github.com/modelcontextprotocol/servers  
@@ -356,7 +356,7 @@ This repository prefers resources that are:
   **Best use case:** Wiring files, fetch, Git, databases, memory, and browser automation into AI agents  
   **Why it matters:** It is the foundation for agent-native research and media toolchains.
 
-### Tools built on top
+#### Tools built on top
 
 - **GitHub MCP Server**  
   **Link:** https://github.com/github/github-mcp-server  
@@ -376,7 +376,7 @@ This repository prefers resources that are:
   **Best use case:** Combining local curation, remote retrieval, and durable agent context  
   **Why it matters:** They make research and media agents usable in practice, not just in demos.
 
-## Remotion / FFmpeg templates
+### Remotion / FFmpeg templates
 
 - **Remotion examples**  
   **Link:** https://www.remotion.dev/docs/examples  
@@ -408,7 +408,7 @@ This repository prefers resources that are:
   **Best use case:** Programmatic media processing inside Python-based research or education pipelines  
   **Why it matters:** It helps integrate media generation directly into data workflows.
 
-## AI coding-agent workflows
+### AI coding-agent workflows
 
 - **GitHub Copilot agent documentation**  
   **Link:** https://docs.github.com/en/copilot/how-tos/use-copilot-agents  
@@ -440,7 +440,7 @@ This repository prefers resources that are:
   **Best use case:** Making coding agents portable across tools and data sources  
   **Why it matters:** MCP is the connective tissue between agents and the space-tool ecosystem.
 
-## Space education datasets and platforms
+### Space education datasets and platforms
 
 - **NASA Open Data Portal**  
   **Link:** https://data.nasa.gov/  
@@ -472,7 +472,7 @@ This repository prefers resources that are:
   **Best use case:** Building guided astronomy experiences around real sky data  
   **Why it matters:** Few tools connect data, story, and audience this effectively.
 
-## Citizen science projects
+### Citizen science projects
 
 - **Zooniverse astronomy projects**  
   **Link:** https://www.zooniverse.org/projects?discipline=astronomy  
