@@ -112,11 +112,11 @@ This repository prefers resources that are:
   **Best use case:** Finding reusable mission imagery, footage, and metadata for storytelling pipelines  
   **Why it matters:** It provides authoritative visual assets for astronomy and space media generation.
 
-- **Earthdata Search**  
-  **Link:** https://search.earthdata.nasa.gov/  
-  **Type:** Earth observation data portal  
-  **Best use case:** Satellite imagery search, climate analysis, and geospatial agent workflows  
-  **Why it matters:** It is one of the most important public gateways to NASA Earth observation products.
+- **NASA Exoplanet Archive**  
+  **Link:** https://exoplanetarchive.ipac.caltech.edu/  
+  **Type:** Public exoplanet data service  
+  **Best use case:** Building exoplanet explorers, classroom demos, and discovery-tracking agents  
+  **Why it matters:** It adds a flagship astronomy dataset to the NASA section without relying only on media endpoints.
 
 - **EONET**  
   **Link:** https://eonet.gsfc.nasa.gov/  
@@ -466,11 +466,11 @@ This repository prefers resources that are:
   **Best use case:** Accessing structured classroom content and space-learning materials  
   **Why it matters:** It complements data-heavy resources with educator-ready framing.
 
-- **WorldWide Telescope**  
-  **Link:** https://worldwidetelescope.org/  
-  **Type:** Interactive education platform  
-  **Best use case:** Building guided astronomy experiences around real sky data  
-  **Why it matters:** Few tools connect data, story, and audience this effectively.
+- **NASA Eyes**  
+  **Link:** https://eyes.nasa.gov/  
+  **Type:** Interactive exploration platform  
+  **Best use case:** Teaching missions, Solar System scale, and space events through interactive visuals  
+  **Why it matters:** It gives educators a public, highly visual companion to more data-heavy resources.
 
 ### Citizen science projects
 
