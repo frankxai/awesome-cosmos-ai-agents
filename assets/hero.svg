@@ -1,0 +1,31 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="520" rx="32" fill="#07111F"/>
+  <path d="M0 398C145 325 282 356 432 302C597 243 698 116 881 132C1045 146 1120 267 1280 218V520H0V398Z" fill="#0E7490" opacity="0.32"/>
+  <path d="M0 441C191 386 327 420 489 362C659 301 774 212 949 237C1070 254 1169 315 1280 286V520H0V441Z" fill="#22C55E" opacity="0.24"/>
+  <circle cx="946" cy="160" r="86" fill="#F8FAFC" opacity="0.08"/>
+  <circle cx="946" cy="160" r="54" fill="#F8FAFC" opacity="0.18"/>
+  <circle cx="946" cy="160" r="18" fill="#F8FAFC"/>
+  <path d="M784 160C829 112 900 92 972 112C1052 134 1107 196 1118 270" stroke="#67E8F9" stroke-width="3" opacity="0.7"/>
+  <path d="M781 292C827 340 898 360 970 340C1050 318 1106 256 1117 182" stroke="#A7F3D0" stroke-width="3" opacity="0.55"/>
+  <g opacity="0.95">
+    <circle cx="168" cy="118" r="3" fill="#E0F2FE"/>
+    <circle cx="248" cy="82" r="2" fill="#E0F2FE"/>
+    <circle cx="322" cy="154" r="2" fill="#E0F2FE"/>
+    <circle cx="438" cy="92" r="3" fill="#E0F2FE"/>
+    <circle cx="555" cy="132" r="2" fill="#E0F2FE"/>
+    <circle cx="668" cy="76" r="2" fill="#E0F2FE"/>
+    <circle cx="1135" cy="98" r="2" fill="#E0F2FE"/>
+    <circle cx="1190" cy="182" r="3" fill="#E0F2FE"/>
+  </g>
+  <g transform="translate(86 96)">
+    <rect x="0" y="0" width="510" height="260" rx="24" fill="#020617" opacity="0.72"/>
+    <text x="34" y="72" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Cosmos AI Agents</text>
+    <text x="36" y="118" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Research, media, education, observability</text>
+    <rect x="36" y="154" width="132" height="42" rx="21" fill="#164E63"/>
+    <text x="62" y="182" fill="#ECFEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">NASA APIs</text>
+    <rect x="184" y="154" width="118" height="42" rx="21" fill="#14532D"/>
+    <text x="211" y="182" fill="#ECFDF5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Archives</text>
+    <rect x="318" y="154" width="132" height="42" rx="21" fill="#1E3A8A"/>
+    <text x="345" y="182" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Agents</text>
+  </g>
+</svg>

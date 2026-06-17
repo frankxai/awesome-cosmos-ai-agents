@@ -1,6 +1,28 @@
-# awesome-cosmos-ai-agents
+<p align="center">
+  <img src="assets/hero.svg" alt="Awesome Cosmos AI Agents" width="100%">
+</p>
 
-> The best public collection of AI agent, research, media, and education resources for space and astronomy.
+<h1 align="center">Awesome Cosmos AI Agents</h1>
+
+<p align="center">
+  <strong>The public-first map for building space research agents, astronomy media systems, and education workflows.</strong>
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
+  <a href="LICENSE"><img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-0f172a.svg"></a>
+  <a href="CONTRIBUTING.md"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-22c55e.svg"></a>
+</p>
+
+<p align="center">
+  <a href="#best-starting-points">Best starting points</a> ·
+  <a href="#for-research-agents">Research agents</a> ·
+  <a href="#for-media-pipelines">Media pipelines</a> ·
+  <a href="#for-education-and-outreach">Education</a> ·
+  <a href="#contributing">Contributing</a>
+</p>
+
+> A curated public collection of AI agent, research, media, and education resources for space and astronomy.
 
 This repository is designed to be an **authority magnet**: a high-signal, opinionated, public directory for people building:
 
@@ -11,6 +33,15 @@ This repository is designed to be an **authority magnet**: a high-signal, opinio
 - satellite and observatory data products
 
 The goal is not to list everything. The goal is to curate the **most useful public starting points** and the **best tools built on top of them**.
+
+## Operator promise
+
+| Promise | What it means |
+| --- | --- |
+| Primary-source first | Official NASA, ESA, mission, archive, and scientific sources outrank derivative lists. |
+| Workflow-aware | Every entry should help an agent research, browse, code, generate media, teach, or monitor. |
+| Public by default | Prefer resources ambitious students, founders, educators, and builders can actually access. |
+| Curated, not scraped | The list stays useful because weak or duplicative entries do not get padded in. |
 
 ## Why this repo exists
 
