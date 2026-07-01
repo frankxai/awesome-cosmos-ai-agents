@@ -65,7 +65,7 @@ If you only have a minute, start here:
 7. **[Stellarium](https://stellarium.org/)** — the easiest open-source way to create immediate educational value.
 8. **[WorldWide Telescope](https://worldwidetelescope.org/)** — one of the best bridges between science data and public storytelling.
 9. **[Model Context Protocol servers](https://github.com/modelcontextprotocol/servers)** — the fastest way to wire research and media tools into AI agents.
-10. **[Remotion examples](https://www.remotion.dev/docs/examples)** + **[FFmpeg docs](https://ffmpeg.org/documentation.html)** — the most practical media stack for automated astronomy video generation.
+10. **[Remotion resources](https://www.remotion.dev/docs/resources)** + **[FFmpeg docs](https://ffmpeg.org/documentation.html)** — the most practical media stack for automated astronomy video generation.
 
 ## Must-use subsets
 
@@ -206,7 +206,7 @@ This repository prefers resources that are:
 #### Tools built on top
 
 - **astroquery**  
-  **Link:** https://www.astropy.org/astroquery/  
+  **Link:** https://astroquery.readthedocs.io/  
   **Type:** Python access layer  
   **Best use case:** Pulling archive and catalog data from astronomy services inside research scripts and agents  
   **Why it matters:** It is the standard bridge between astronomy archives and programmable workflows.
@@ -408,7 +408,7 @@ This repository prefers resources that are:
   **Why it matters:** Many high-value space resources still require browser-grade automation.
 
 - **Filesystem / Fetch / Memory server patterns**  
-  **Link:** https://docs.modelcontextprotocol.io/  
+  **Link:** https://modelcontextprotocol.io/docs/  
   **Type:** Core agent utility servers  
   **Best use case:** Combining local curation, remote retrieval, and durable agent context  
   **Why it matters:** They are the practical building blocks behind agents that read files, retrieve sources, and preserve context.
@@ -416,7 +416,7 @@ This repository prefers resources that are:
 ### Remotion / FFmpeg templates
 
 - **Remotion examples**  
-  **Link:** https://www.remotion.dev/docs/examples  
+  **Link:** https://www.remotion.dev/docs/resources  
   **Type:** Video generation examples  
   **Best use case:** Turning structured mission, event, or paper data into scripted video output  
   **Why it matters:** It is one of the cleanest ways to build repeatable astronomy video pipelines.
@@ -470,6 +470,12 @@ This repository prefers resources that are:
   **Type:** IDE-native agent framework  
   **Best use case:** Embedding AI coding workflows directly in editor experiences  
   **Why it matters:** It is useful for teams maintaining research and media codebases continuously.
+  
+- **starlight-cosmos-engine**  
+  **Link:** https://github.com/frankxai/starlight-cosmos-engine  
+  **Type:** Event-driven orchestration engine  
+  **Best use case:** Powering autonomous astronomy research agents and automated space media generation pipelines  
+  **Why it matters:** It connects NASA/ESA databases, Stellarium coordinates, and Remotion video rendering into a single, cohesive loop.
 
 - **Model Context Protocol**  
   **Link:** https://modelcontextprotocol.io/  
@@ -530,7 +536,7 @@ This repository prefers resources that are:
   **Why it matters:** It is a strong example of public labor feeding real astronomy discovery.
 
 - **Planet Hunters**  
-  **Link:** https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-ngts  
+  **Link:** https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess  
   **Type:** Exoplanet citizen science project  
   **Best use case:** Engaging the public in transit-based planet discovery workflows  
   **Why it matters:** It is one of the clearest bridges between public engagement and cutting-edge science.
