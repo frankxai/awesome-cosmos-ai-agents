@@ -1,25 +1,20 @@
-# Contributing
+# Contributing Standards
 
-Thanks for helping keep this list useful. This repo is intentionally curated, not exhaustive.
+We welcome contributions that align with our core thesis of **verifiable, world-healing, and rigorously-tested agent intelligence**.
 
-## What Belongs
+## The Golden Rules
 
-- Official space, astronomy, archive, education, or mission resources.
-- Tools that help agents research, browse, code, monitor, teach, or generate space media.
-- Practical workflows that combine public data with AI agents or automation.
-- Historically important resources when they are clearly labeled as such.
+1. **No Hallucinated Tooling**: If you submit an agent skill, prompt, or tool, it must be verified to work against a real API or framework.
+2. **Safety First**: Any capability that interfaces with the physical world, live capital, or critical infrastructure must include strict human-in-the-loop approval gates.
+3. **High Signal, Low Noise**: We prefer deeply curated, opinionated lists over exhaustive link dumps. If you add a repository, explain *why* it is the best-in-class choice for that specific layer of the agent OS.
+4. **Formatting**: Ensure your Markdown is clean. If adding to a list, use the existing `<details>` structure to preserve the scannability of the README.
 
-## What Does Not Belong
+## How to Submit
 
-- Generic AI links with no space or astronomy angle.
-- Private-only vendor pages without public utility.
-- Low-signal launch posts, thin wrappers, or stale directories.
-- Duplicate entries that do not add a new workflow or source.
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/amazing-new-skill`).
+3. Commit your changes (`git commit -m 'feat: Add incredible new skill'`).
+4. Push to the branch (`git push origin feature/amazing-new-skill`).
+5. Open a Pull Request.
 
-## Pull Request Checklist
-
-- Add one focused entry or section at a time.
-- Prefer primary sources over summaries.
-- Explain why the resource matters in one sentence.
-- Keep entries concise and alphabetized where that improves scanning.
-- Run `./scripts/validate-links.ps1` before opening a PR.
+Your PR will be reviewed against our strict quality gates. We expect a high standard of engineering and documentation. Thank you for helping build the intelligence layer.
