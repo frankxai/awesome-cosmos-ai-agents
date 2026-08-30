@@ -1,59 +1,86 @@
-<div align="center">
-
 # Awesome Cosmos AI Agents
 
-<img src="./hero.jpg" width="100%" alt="Awesome Cosmos AI Agents Hero Banner" />
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents/commits/main)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Link Check](https://github.com/frankxai/awesome-cosmos-ai-agents/actions/workflows/link-checker.yml/badge.svg)](https://github.com/frankxai/awesome-cosmos-ai-agents/actions/workflows/link-checker.yml)
-[![FrankX Core Brand Hub](https://img.shields.io/badge/Maintained%20by-FrankX-blue?style=flat-square)](https://frankx.ai)
+> Web-first resources for astronomy, astrodynamics, mission-data exploration, and scientifically grounded agent workflows.
 
-**Deep telemetry APIs mixed with AI media automation.**
+This is an independent, **web-first** catalog. It remains useful if every FrankX link is removed: third-party primary sources lead, while companion lists appear only at the end.
 
-</div>
+## Start here
 
----
+Preserve query provenance, units, timestamps, and uncertainty. Keep computation, interpretation, and visual storytelling separate.
 
-## 🌟 Our Advantage
+<!-- earned-skill-index:2026-08-30 -->
 
-> [!NOTE]
-> Unlike other generic lists, this repository **Merges deep telemetry APIs (NASA, Astroquery) with modern AI media automation (Remotion).**
+## Earned agent skills (start here)
 
-We follow the **Hub-and-Spoke Traffic Funnel** model. This is an active, deeply engineered repository designed for the GenCreator economy. Every tool, skill, and framework here is tested and ready for production deployment within the FrankX ecosystem.
+Operators get leverage from **about 5–7 named workflows**, not bulk dumps. Hub: [https://github.com/frankxai/awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [earned index](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/EARNED-SKILLS.md) · [safety gate](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/QUALITY-AND-SAFETY.md).
 
-## 📦 Recommended Claude Code Skills & Agents
+**Science / cosmos agent skills**
 
-| Name | Description | Link |
-| :--- | :--- | :--- |
-| **ACOS Architecture Expert** | The definitive standard for agentic systems. | [Claude Skills Library](https://frankx.ai/claude-skills-library) |
-| **Premium Swarm: Visual Creation Loop** | Full multi-agent pipeline for high-end mascot & asset generation. | [Get it on Gumroad](https://frankx.gumroad.com/l/visual-creation) <br/> [View on frankx.ai](https://frankx.ai/products) |
-| **Product Engine** | Agentic workflows for immediate deployment. | [frankx.ai](https://frankx.ai) |
+| Pack | Job |
+| --- | --- |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Validated science skills — pick a domain, don't bulk-install |
+| [huggingface/skills](https://github.com/huggingface/skills) | Official HF ecosystem skills |
+| [google/skills](https://github.com/google/skills) | Vendor skills for Google science/geo products |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scan before install |
+| [agentskills/agentskills](https://github.com/agentskills/agentskills) | Portable skill spec |
+
+Scan with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) before a live profile. Do not install unsigned ZIP/S3 skill blobs or OpenClaw mass dumps.
 
 
+## Peer directories and standards
 
-> [!TIP]
-> **New to Agents?** Check out our [Getting Started Guide](./GETTING_STARTED.md) to set up your first Claude Code skill for free.
->
-> **Ready to Scale?** Unlock premium Agent Swarms on [Gumroad](https://gumroad.com/frankxai) or [frankx.ai/products](https://frankx.ai/products).## 🚀 How It Integrates
+[Astropy](https://github.com/astropy/astropy) · [astroquery](https://github.com/astropy/astroquery)
 
-This repository connects directly into the broader ecosystem:
-- Serves as a definitive, high-signal curation list for AI Architects.
-- Drives active agentic workflows via the FastMCP and Agents SDK.
-- Enforces strict safety and execution gates.
+## Curated catalog
 
----
+| Project | Pulse snapshot | Why it is here |
+| --- | --- | --- |
+| [Astropy](https://github.com/astropy/astropy) | BSD-3-Clause · 5,248★ | Core astronomy/astrophysics Python. |
+| [astroquery](https://github.com/astropy/astroquery) | BSD-3-Clause · 784★ | Online astronomy-data access. |
+| [Skyfield](https://github.com/skyfielders/python-skyfield) | MIT · 1,755★ | High-precision astronomy calculations. |
+| [NASA Open MCT](https://github.com/nasa/openmct) | NOASSERTION · 13,064★ | Mission-control visualization layer. |
+| [poliastro](https://github.com/poliastro/poliastro) | MIT · 1,016★ · archived | Astrodynamics reference; assess maintenance. |
+| [Jupyter MCP Server](https://github.com/datalayer/jupyter-mcp-server) | license verify · 1,234★ | Jupyter MCP; apply data safety gates. |
+| [Remotion](https://github.com/remotion-dev/remotion) | NOASSERTION · 55,303★ | Clearly labeled scientific communication. |
 
-## 🛠️ Contributing & Standards
+## 6-Pillar curation lens
 
-We welcome contributions that align with our core thesis of verifiable, world-healing, and rigorously-tested agent intelligence.
+```mermaid
+mindmap
+  root((Curated agent capability))
+    Strategy
+      fit and scope
+    Governance
+      provenance and license
+    Talent
+      human review
+    Technology
+      tools and integration
+    Data
+      evidence and memory
+    Ethics
+      safety and disclosure
+```
 
-Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+This lens is editorial, not an endorsement or a claim that a project satisfies every pillar.
 
-## 📄 License
+## Explore the Full FrankX Awesome Ecosystem (optional)
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+Companion catalogs are optional; the third-party projects above are this list's primary value.
 
-<div align="center">
-  <sub>Built with ❤️ by the FrankX Superintelligence System</sub>
-</div>
+- [awesome-jarvis](https://github.com/frankxai/awesome-jarvis) · [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) · [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills) · [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
+- [awesome-agentic-income](https://github.com/frankxai/awesome-agentic-income) · [awesome-investor-agent-skills](https://github.com/frankxai/awesome-investor-agent-skills) · [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills) · [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
+- [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills) · [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills) · [awesome-wealth-agent-skills](https://github.com/frankxai/awesome-wealth-agent-skills)
+- [awesome-mind-agent-skills](https://github.com/frankxai/awesome-mind-agent-skills) · [awesome-cosmos-ai-agents](https://github.com/frankxai/awesome-cosmos-ai-agents) · [awesome-automation-agent-skills](https://github.com/frankxai/awesome-automation-agent-skills) · [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills) · [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills)
 
+## Contribution standard
+
+Open a PR with a primary URL, one-sentence distinct value, current maintenance evidence, license posture, and relevant safety/deployment caveat. Do not submit affiliate links, private workflow exports, unverified claims, or a product pitch in place of a useful third-party resource.
+
+## Research method
+
+This monthly pulse queried GitHub repository metadata on **2026-08-03** for identity, approximate stars, archived state, activity, and license posture. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
+
+Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-30**.
