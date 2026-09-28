@@ -1,6 +1,6 @@
 # Awesome Cosmos AI Agents
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-cosmos-ai-agents?style=flat)](https://github.com/frankxai/awesome-cosmos-ai-agents/commits/main)
 
 > Web-first resources for astronomy, astrodynamics, mission-data exploration, and scientifically grounded agent workflows.
 
